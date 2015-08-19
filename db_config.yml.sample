@@ -1,0 +1,5 @@
+sql_server:
+  username: DB_USERNAME
+  password: DB_PASSWORD
+  host: HOST_ADDRESS
+  database: DB_NAME
